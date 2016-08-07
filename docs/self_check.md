@@ -18,7 +18,7 @@
 - 自行学习安装 Ruby, Rails, Git
   - 要求: 安装好 [Vagrant](https://gorails.com/guides/using-vagrant-for-rails-development), [Ruby on Rails](https://gorails.com/setup/ubuntu/14.04)。 (5/5)
   - 完成情况:
-  - 问题:notingdddd
+  - 问题:
 
 
 #### 第一周的学习完成情况
@@ -41,3 +41,5 @@
   - 问题:
 
   #### 其他问题
+
+  - popantelop comment: Finished all tasks.
